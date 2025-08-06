@@ -1,5 +1,3 @@
-### neocotic
-
 #### `> LANGUAGES`
 
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-grey?style=flat-square&logoColor=white&logo=javascript)
