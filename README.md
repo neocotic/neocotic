@@ -28,7 +28,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/INTELLIJ%20IDEA-grey?style=flat-square&logoColor=white&logo=intellijidea)
 ![Android Studio](https://img.shields.io/badge/ANDROID%20STUDIO-grey?style=flat-square&logoColor=white&logo=androidstudio)
 ![PyCharm](https://img.shields.io/badge/PYCHARM-grey?style=flat-square&logoColor=white&logo=pycharm)
-![PHPStorm](https://img.shields.io/badge/PHPSTORM-grey?style=flat-square&logoColor=white&logo=phpstorm)
+![PHPStorm](https://img.shields.io/badge/PHPSTORM-grey?style=flat-square&logoColor=white&logo=phpstorm)  
 ![Audible](https://img.shields.io/badge/AUDIBLE-grey?style=flat-square&logoColor=white&logo=audible)
 ![YouTube Music](https://img.shields.io/badge/YOUTUBE%20MUSIC-grey?style=flat-square&logoColor=white&logo=youtubemusic)
 ![Starbucks](https://img.shields.io/badge/STARBUCKS-grey?style=flat-square&logoColor=white&logo=starbucks)
